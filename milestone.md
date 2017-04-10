@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "record"
+title: "milestone"
 description: "life is just like a chocolate"
 header-img: "img/zhihu.jpg"
 ---
